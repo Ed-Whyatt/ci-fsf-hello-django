@@ -12,7 +12,7 @@
             "currency":"$",
             "old_price":11.4,
             "isbn":9781509858637,
-            "category":16,
+            "category":"16",
             "img_paths":"dataset/Medical/0000001.jpg"
         }
     },
@@ -29,8 +29,8 @@
             "currency":"$",
             "old_price":15,
             "isbn":9780141033570,
-            "category":16,
-            "img_paths":"dataset/Medical/0000002.jpg"
+            "category":"16",
+            "img_paths":""
         }
     },
     {
@@ -46,7 +46,7 @@
             "currency":"$",
             "old_price":11.5,
             "isbn":9781784701994,
-            "category":16,
+            "category":"16",
             "img_paths":"dataset/Medical/0000003.jpg"
         }
     },
@@ -63,7 +63,7 @@
             "currency":"$",
             "old_price":13.9,
             "isbn": 9781845298258,
-            "category":16,
+            "category":"16",
             "img_paths":"dataset/Medical/0000004.jpg"
         }
     }
