@@ -1,7 +1,7 @@
 [
     {
         "pk":1,
-        "modal":"products.product",
+        "model":"products.product",
         "fields":{
             "image":"https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5098/9781509858637.jpg",
             "name":"This is Going to Hurt",
@@ -18,7 +18,7 @@
     },
     {
         "pk":2,
-        "modal":"products.product",
+        "model":"products.product",
         "fields":{
             "image":"https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1410/9780141033570.jpg",
             "name":"Thinking, Fast and Slow",
@@ -33,11 +33,9 @@
             "img_paths":"dataset/Medical/0000002.jpg"
         }
     },
-    
-
     {
         "pk":3,
-        "modal":"products.product",
+        "model":"products.product",
         "fields":{
             "image":"https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7847/9781784701994.jpg",
             "name":"When Breath Becomes Air",
@@ -52,11 +50,9 @@
             "img_paths":"dataset/Medical/0000003.jpg"
         }
     },
-    
-
     {
         "pk": 4,
-        "modal":"products.product",
+        "model":"products.product",
         "fields":{
             "image":"https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/8452/9781845298258.jpg",
             "name":"The Happiness Trap",
