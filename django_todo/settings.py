@@ -37,7 +37,7 @@ ALLOWED_HOSTS = [os.environ.get("HEROKU_HOSTNAME"), 'localhost']
 
 
 CSRF_TRUSTED_ORIGINS = [
-    'https://8000-edwhyatt-cifsfhellodjan-1lu01muxy0d.ws-eu74.gitpod.io',
+    'https://8000-edwhyatt-cifsfhellodjan-1lu01muxy0d.ws-eu75.gitpod.io',
 ]
 
 CSRF_COOKIE_SECURE = True
@@ -142,7 +142,7 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 MEDIA_URL = '/media/'
-MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field

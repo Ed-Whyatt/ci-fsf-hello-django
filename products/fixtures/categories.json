@@ -148,7 +148,7 @@
         "model": "products.category",
         "fields": {
             "name": "personal_development",
-            "friendly_name": "personal development"
+            "friendly_name": "Personal Development"
         }
     },
     {
@@ -244,7 +244,7 @@
         "model": "products.category",
         "fields": {
             "name": "teen_young_adult",
-            "friendly_name": "Teen-Young-Adult"
+            "friendly_name": "Teen Young Adult"
         }
     },
     {
